@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * Main Enty Point
+ * main - Entry point
+ *
  * Description: Prints a message to the standard output
- * Return : Always 0 (success)
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
